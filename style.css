@@ -21,7 +21,7 @@ html{
     /* letter-spacing: 5px; */
     margin-top: -60px;
 }
-.wrapper {
+.wrapper2 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-auto-rows: 90px;
